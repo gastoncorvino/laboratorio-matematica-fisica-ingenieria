@@ -58,7 +58,7 @@
 - Pausar después de cada operación. No acelerar la lectura para encajar; ajustar duración del video si hiciera falta.
 - Usar celular cerca de la boca, en lugar silencioso, o un micrófono USB; no hace falta equipo pago.
 - Ajustar el volumen con auriculares y revisar en teléfono.
-- Exportar audio WAV o M4A. Usar `agregar_voz.ps1` para integrarlo sin volver a generar los gráficos.
+- Exportar audio WAV o M4A. Usar `montar_mi_voz_episodios_001_002.ps1` para integrarlo sin volver a generar los gráficos.
 
 ## Rigor matemático
 
