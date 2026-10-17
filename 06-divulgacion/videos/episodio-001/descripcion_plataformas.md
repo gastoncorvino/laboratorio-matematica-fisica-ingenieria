@@ -10,7 +10,7 @@
 
 Ejemplo didáctico: NO es una forma práctica de descifrar RSA moderno.
 
-📘 Código, pruebas y explicación completa: **[AGREGAR URL DEL REPOSITORIO UNA VEZ PUBLICADO]**.
+📘 Código, pruebas y explicación completa: https://github.com/gastoncorvino/laboratorio-matematica-fisica-ingenieria/tree/main/05-exploraciones/cripto/01-factorizacion-rsa.
 
 ## Etiquetas
 
