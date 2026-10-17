@@ -1,0 +1,27 @@
+﻿semestre,codigo,materia,mit_referencia,proyecto_propuesto,estado,evidencia_verificada
+1,M1,Cálculo diferencial e integral,18.01SC,Enfriamiento de un cuerpo,PLANIFICADO,NO
+1,F1,Mecánica clásica I,8.01SC,Trayectorias y conservación de energía,PLANIFICADO,NO
+1,I1,Métodos numéricos I,2.086,Precisión de integradores numéricos,PLANIFICADO,NO
+1,L1,Laboratorio integrador I,8.01SC + 2.086,Classical Mechanics Simulation Laboratory,PLANIFICADO,NO
+2,M2,Cálculo multivariable,18.02SC,Campo vectorial y optimización,PLANIFICADO,NO
+2,M3,Álgebra lineal,18.06SC,Transformaciones y sistemas,PLANIFICADO,NO
+2,F2,Electromagnetismo I,8.02SC,Campos eléctricos y magnéticos,PLANIFICADO,NO
+3,M4,Ecuaciones diferenciales,18.03SC,Oscilador amortiguado,PLANIFICADO,NO
+3,F3,Ondas,8.03SC,Superposición y resonancia,PLANIFICADO,NO
+3,I2,Introducción a electrónica,6.002,Filtros y circuitos,PLANIFICADO,NO
+4,F4,Mecánica cuántica I,8.04,Pozo de potencial,PLANIFICADO,NO
+4,F5,Física estadística,8.044,Distribuciones y Monte Carlo,PLANIFICADO,NO
+4,I3,Circuitos,6.002,Respuesta transitoria RLC,PLANIFICADO,NO
+5,M5,Probabilidad y estadística,18.05,Inferencia sobre mediciones,PLANIFICADO,NO
+5,F6,Mecánica cuántica II,8.05,Estados y observables,PLANIFICADO,NO
+5,I4,Señales y sistemas,6.003,Filtrado de señales,PLANIFICADO,NO
+6,F7,Electromagnetismo II,8.07,Ecuaciones de Maxwell,PLANIFICADO,NO
+6,I5,Ciencia de materiales,3.091SC,Estructura y propiedades,PLANIFICADO,NO
+6,I6,Dispositivos electrónicos,6.012,Modelo de un semiconductor,PLANIFICADO,NO
+7,I7,Propiedades electrónicas de los materiales,3.024,Bandas de energía,PLANIFICADO,NO
+7,I8,Microelectrónica y MOSFET,6.720J,Curvas de transistor,PLANIFICADO,NO
+7,I9,Sistemas de control,6.302,Control PID,PLANIFICADO,NO
+8,F8,Mecánica cuántica III,8.06,Perturbaciones y aproximaciones,PLANIFICADO,NO
+8,F9,Relatividad,8.033,Transformaciones de Lorentz,PLANIFICADO,NO
+8,L2,Laboratorio avanzado,8.13–8.14,Diseño experimental y análisis de datos,PLANIFICADO,NO
+8,TFI,Trabajo final integrador,multidisciplinario,Proyecto de ingeniería con validación,PLANIFICADO,NO

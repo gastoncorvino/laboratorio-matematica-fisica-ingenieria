@@ -1,0 +1,14 @@
+name: Pruebas de proyectos
+on:
+  push:
+  pull_request:
+jobs:
+  python-unittest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validar exploración E01
+        run: python -m unittest discover -s 05-exploraciones/cripto/01-factorizacion-rsa/tests -v
