@@ -1,0 +1,13 @@
+{
+  "episodio": "001", "idioma": "en", "titulo": "How multiplication helps protect your data",
+  "escenas": [
+    {"etiqueta":"THE QUESTION", "titulo":"CAN MULTIPLICATION PROTECT INFORMATION?", "formulas":["7 × 11 = 77"], "frases":["How can a simple multiplication help protect information on the Internet?"]},
+    {"etiqueta":"01 / MULTIPLICATION", "titulo":"MULTIPLYING IS EASY", "formulas":["7 × 11 = 77"], "frases":["Seven times eleven equals seventy-seven.","We know the factors, and calculating the product is easy."]},
+    {"etiqueta":"02 / FACTORIZATION", "titulo":"WHAT ABOUT THE REVERSE?", "formulas":["77 = ? × ?"], "frases":["Now imagine I only give you the number seventy-seven.","Can you discover which two prime numbers produced it?"]},
+    {"etiqueta":"03 / ALGEBRA", "titulo":"ALGEBRA GIVES US A CLUE", "formulas":["a² − b²", "= (a − b)(a + b)"], "frases":["The difference of two squares lets us rewrite a subtraction as a multiplication."]},
+    {"etiqueta":"04 / PERFECT SQUARES", "titulo":"LET'S TRY SEVENTY-SEVEN", "formulas":["9² = 81", "81 − 77 = 4 = 2²"], "frases":["The square root of seventy-seven lies between eight and nine.","Nine squared is eighty-one. Subtract seventy-seven, and we get four."]},
+    {"etiqueta":"05 / THE FACTORS", "titulo":"THE PRIMES APPEAR", "formulas":["77 = 9² − 2²", "= (9 − 2)(9 + 2)", "= 7 × 11"], "frases":["Four is two squared. Now we apply the algebraic identity.","Nine minus two is seven, and nine plus two is eleven. We found the factors."]},
+    {"etiqueta":"06 / RSA", "titulo":"PUBLIC PRODUCT, SECRET PRIMES", "formulas":["61 × 53 = 3233", "Public key: (n, e)"], "frases":["RSA builds a public key using the product of two very large prime numbers.","Recovering those primes from the product can be much harder when the numbers are enormous."]},
+    {"etiqueta":"07 / THE LIMIT", "titulo":"MATH IN REAL TECHNOLOGY", "formulas":["LEARN  →  TEST"], "frases":["This is an educational example, not a practical way to break modern RSA.","You'll find the code and tests in my learning laboratory."]}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "episodio":"003","idioma":"en","titulo":"Why Fermat's method sometimes takes longer",
+  "escenas":[
+    {"etiqueta":"THE QUESTION", "titulo":"WHY DOES FERMAT TAKE LONGER?", "formulas":["35 = 5 × 7", "213 = 3 × 71"], "frases":["Why can we factor some numbers almost instantly, while others take many attempts?"]},
+    {"etiqueta":"01 / CLOSE FACTORS", "titulo":"FIRST EXAMPLE: 35", "formulas":["6² − 35 = 1", "35 = (6 − 1)(6 + 1)"], "frases":["Thirty-five is five times seven, two factors that are close together.","Six squared minus thirty-five equals one. The method works immediately."]},
+    {"etiqueta":"02 / DISTANT FACTORS", "titulo":"SECOND EXAMPLE: 213", "formulas":["213 = 3 × 71", "√213 ≈ 14.6"], "frases":["Now take two hundred and thirteen, equal to three times seventy-one.","Its square root lies between fourteen and fifteen, so we start with fifteen."]},
+    {"etiqueta":"03 / MORE ATTEMPTS", "titulo":"THE FIRST TRY DOESN'T WORK", "formulas":["15² − 213 = 12", "16² − 213 = 43", "..."], "frases":["Fifteen squared minus two hundred and thirteen equals twelve, not a perfect square.","With sixteen, we get forty-three. So we keep searching."]},
+    {"etiqueta":"04 / THE SOLUTION", "titulo":"FINALLY, A PERFECT SQUARE", "formulas":["37² − 213 = 34²", "213 = 3 × 71"], "frases":["At thirty-seven, the difference is finally another perfect square.","Thirty-seven minus thirty-four equals three, and their sum is seventy-one."]},
+    {"etiqueta":"05 / THE CONTRAST", "titulo":"ONE TRY VERSUS TWENTY-THREE", "formulas":["35 → 1 attempt", "213 → 23 attempts"], "frases":["When factors are close, Fermat's method can be very fast.","When they are far apart, the search can become much longer."]},
+    {"etiqueta":"06 / MODERN RSA", "titulo":"WHAT ABOUT CRYPTOGRAPHY?", "formulas":["Fermat ≠ breaking RSA"], "frases":["This illustrates one limitation, but does not explain every aspect of RSA security.","Modern factoring algorithms use much more sophisticated mathematical techniques."]},
+    {"etiqueta":"07 / THE LAB", "titulo":"FROM THEORY TO CODE", "formulas":["MATH + PYTHON"], "frases":["In the lab, we can measure those attempts and discover where each algorithm works.","Every explanation comes with code, tests and reproducible results."]}
+  ]
+}

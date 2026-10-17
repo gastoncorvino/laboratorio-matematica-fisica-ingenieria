@@ -1,0 +1,13 @@
+{
+  "episodio":"003","idioma":"es","titulo":"¿Por qué el método de Fermat a veces es rápido y otras no?",
+  "escenas":[
+    {"etiqueta":"LA PREGUNTA", "titulo":"¿POR QUÉ FERMAT TARDA MÁS?", "formulas":["35 = 5 × 7", "213 = 3 × 71"], "frases":["¿Por qué podemos factorizar algunos números casi al instante, pero otros requieren muchos intentos?"]},
+    {"etiqueta":"01 / FACTORES CERCANOS", "titulo":"PRIMER CASO: 35", "formulas":["6² − 35 = 1", "35 = (6 − 1)(6 + 1)"], "frases":["Treinta y cinco es cinco por siete: dos factores cercanos.","Probamos seis al cuadrado menos treinta y cinco, y obtenemos uno. ¡Funciona enseguida!"]},
+    {"etiqueta":"02 / FACTORES LEJANOS", "titulo":"SEGUNDO CASO: 213", "formulas":["213 = 3 × 71", "√213 ≈ 14,6"], "frases":["Ahora probamos con doscientos trece, que resulta de multiplicar tres por setenta y uno.","Su raíz cuadrada está entre catorce y quince. Arrancamos probando quince."]},
+    {"etiqueta":"03 / MÁS INTENTOS", "titulo":"NO ALCANZA CON EL PRIMERO", "formulas":["15² − 213 = 12", "16² − 213 = 43", "..."], "frases":["Quince al cuadrado menos doscientos trece da doce: no es cuadrado perfecto.","Con dieciséis obtenemos cuarenta y tres. Seguimos probando."]},
+    {"etiqueta":"04 / EL RESULTADO", "titulo":"FINALMENTE, ENCONTRAMOS", "formulas":["37² − 213 = 34²", "213 = 3 × 71"], "frases":["Recién con treinta y siete encontramos otro cuadrado perfecto.","Treinta y siete menos treinta y cuatro es tres, y la suma es setenta y uno."]},
+    {"etiqueta":"05 / LA DIFERENCIA", "titulo":"1 INTENTO CONTRA 23", "formulas":["35 → 1 intento", "213 → 23 intentos"], "frases":["Con factores cercanos, Fermat puede ser muy rápido.","Con factores muy separados, la búsqueda puede crecer muchísimo."]},
+    {"etiqueta":"06 / RSA REAL", "titulo":"¿Y EN CRIPTOGRAFÍA?", "formulas":["Fermat ≠ romper RSA"], "frases":["Este ejemplo explica una limitación del método, pero no alcanza para analizar toda la seguridad de RSA.","Los algoritmos modernos de factorización utilizan técnicas matemáticas mucho más avanzadas."]},
+    {"etiqueta":"07 / EL LABORATORIO", "titulo":"DE LA TEORÍA AL CÓDIGO", "formulas":["MATEMÁTICA + PYTHON"], "frases":["En el laboratorio podemos comparar los intentos y entender dónde funciona cada algoritmo.","Todo acompañado de código, pruebas y resultados reproducibles."]}
+  ]
+}

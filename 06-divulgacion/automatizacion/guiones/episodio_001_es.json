@@ -1,0 +1,13 @@
+{
+  "episodio": "001", "idioma": "es", "titulo": "Cómo una multiplicación ayuda a proteger tus datos",
+  "escenas": [
+    {"etiqueta":"PREGUNTA INICIAL", "titulo":"¿UNA MULTIPLICACIÓN PUEDE PROTEGER DATOS?", "formulas":["7 × 11 = 77"], "frases":["¿Cómo puede una multiplicación ayudar a proteger la información que usamos en Internet?"]},
+    {"etiqueta":"01 / MULTIPLICACIÓN", "titulo":"HACERLO ES FÁCIL", "formulas":["7 × 11 = 77"], "frases":["Si multiplicamos siete por once, obtenemos setenta y siete.","Conocemos los factores y calculamos el resultado."]},
+    {"etiqueta":"02 / FACTORIZACIÓN", "titulo":"PERO, ¿Y AL REVÉS?", "formulas":["77 = ? × ?"], "frases":["Ahora te doy solamente el setenta y siete.","¿Podés descubrir los dos números primos que lo forman?"]},
+    {"etiqueta":"03 / IDENTIDAD", "titulo":"EL ÁLGEBRA NOS AYUDA", "formulas":["a² − b²", "= (a − b)(a + b)"], "frases":["La diferencia de cuadrados nos dice que una resta se puede convertir en una multiplicación."]},
+    {"etiqueta":"04 / BUSCAR CUADRADOS", "titulo":"PROBEMOS CON 77", "formulas":["9² = 81", "81 − 77 = 4 = 2²"], "frases":["La raíz cuadrada de setenta y siete está entre ocho y nueve.","Probamos nueve al cuadrado: ochenta y uno menos setenta y siete da cuatro."]},
+    {"etiqueta":"05 / ENCONTRAR FACTORES", "titulo":"DESCUBRIMOS LOS PRIMOS", "formulas":["77 = 9² − 2²", "= (9 − 2)(9 + 2)", "= 7 × 11"], "frases":["Y como cuatro es dos al cuadrado, aplicamos la identidad.","Nueve menos dos es siete. Nueve más dos es once. Ya encontramos los factores."]},
+    {"etiqueta":"06 / RSA", "titulo":"PRODUCTO PÚBLICO, PRIMOS SECRETOS", "formulas":["61 × 53 = 3233", "Clave pública: (n, e)"], "frases":["RSA construye su clave pública usando el producto de dos números primos muy grandes.","Encontrar esos factores puede ser mucho más difícil cuando los números son enormes."]},
+    {"etiqueta":"07 / CONCLUSIÓN", "titulo":"MATEMÁTICA EN LA VIDA REAL", "formulas":["ESTUDIAR  →  PROBAR"], "frases":["Esto es una demostración educativa, no una manera práctica de romper RSA moderno.","El código y las pruebas están documentados en mi laboratorio."]}
+  ]
+}
